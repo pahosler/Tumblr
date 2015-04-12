@@ -1,0 +1,22 @@
+{
+"manifest_version": 2,
+"name": "Tumblr",
+"description": "Yup this is Tumblr.",
+"version": "1.0",
+"icons": {
+"128": "tumblr-icon.png"
+},
+"app": {
+"urls": [
+"https://www.tumblr.com/dashboard"
+
+],
+"launch": {
+"web_url": "https://www.tumblr.com/dashboard"
+}
+},
+"permissions": [
+"unlimitedStorage",
+"notifications"
+]
+}
